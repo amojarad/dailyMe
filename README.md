@@ -1,4 +1,6 @@
-dailyMe is a personal dashboard. It is a great way to keep track of your specific needs. Here are some features that dailyMe have:
+dailyMe is a personal dashboard. It is a great way to keep track of your specific needs.
+
+Here are some features that dailyMe Version 1.0.0 have:
 
 1.  Time: Display the current time on your dashboard.
 2.  Quotes: Display Quotes to provide inspiration and motivation throughout the day.
